@@ -17,8 +17,11 @@
 
   - 下载电影
   - [此实验涉及的电影网站](http://www.youzhidy.com) ：http://www.youzhidy.com
+- [下载的电影网站的种子](https://github.com/MiracleTaoTao/MyTestCodeHome/blob/master/JsoupJarLearn/list_67.txt)
+  
+- 电影列表截图
 
-  - [下载的电影网站的种子](https://github.com/MiracleTaoTao/MyTestCodeHome/blob/master/JsoupJarLearn/list_67.txt)
+  - ![电影列表截图](https://github.com/MiracleTaoTao/MyTestCodeHome/blob/master/JsoupJarLearn/resource/%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD.png?raw=true)
 
   
 ### GetNewbieflyResource
