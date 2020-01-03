@@ -3,4 +3,5 @@
 
 - [JsoupJarLearn](https://github.com/MiracleTaoTao/MyTestCodeHome/tree/master/JsoupJarLearn)
 - [AppendString](https://github.com/MiracleTaoTao/MyTestCodeHome/tree/master/AppendString)
+- [Java8Stream](https://github.com/MiracleTaoTao/MyTestCodeHome/tree/master/Java8Stream)
 
